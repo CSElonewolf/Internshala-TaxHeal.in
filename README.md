@@ -1,5 +1,4 @@
-# Internshala-TaxHeal.in WEB Development Internship
-The link to my application for this job is https://internshala.com/application/view/39553543?referral=chat
+# JOB LISTING SITE with featuree of filling an application form
 
 Build
 ----
@@ -38,9 +37,6 @@ Register Page
 ----
 ![1](https://github.com/CSElonewolf/Internshala-TaxHeal.in/blob/master/ReadMeImages/image7.png?raw=true)
 
-Thank you TaxHeal.in
-----
-![1](https://github.com/CSElonewolf/Internshala-TaxHeal.in/blob/master/ReadMeImages/image8.png?raw=true)
 
 
 
