@@ -1,4 +1,4 @@
-# JOB LISTING SITE with featuree of filling an application form
+# JOB LISTING SITE with feature of filling an application form
 
 Build
 ----
